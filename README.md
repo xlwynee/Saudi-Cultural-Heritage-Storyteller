@@ -81,14 +81,6 @@ python allam2.py
 
 ---
 
-## Results
-- Example prompt (teenagers): *"Generate a story about Diriyah for teenagers"*  
-- Generated story (excerpt):  
-  *"Diriyah was once the beating heart of the Arabian Peninsula..."*  
-- Results are qualitative (story samples) demonstrated in the demo section.  
-
----
-
 ## Contribution and Role
 This was a group project.  
 
