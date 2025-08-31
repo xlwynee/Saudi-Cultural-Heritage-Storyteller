@@ -77,7 +77,7 @@ python allam2.py
 ---
 
 ## Demo
-- ![Demo Screenshot](images/demo.png)  
+- ![Demo Screenshot](images/demo.jpeg)  
 
 ---
 
