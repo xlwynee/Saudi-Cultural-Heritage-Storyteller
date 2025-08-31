@@ -1,0 +1,7 @@
+transformers
+accelerate
+sentencepiece
+bitsandbytes
+gradio
+duckduckgo-search
+pandas
