@@ -71,7 +71,7 @@ pip install -r requirements.txt
 
 ### Option 2: Local run with Python
 ```bash
-python allam2.py
+python allam.py
 ```
 
 ---
