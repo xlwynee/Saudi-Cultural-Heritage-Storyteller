@@ -55,7 +55,7 @@ The dataset was collected by team members through web scraping.
 ## Installation
 Clone the repository and install dependencies:  
 ```bash
-git clone https://github.com/<username>/Cultural-Heritage-Storyteller.git
+git clone https://github.com/xlwynee/Cultural-Heritage-Storyteller.git
 cd Cultural-Heritage-Storyteller
 pip install -r requirements.txt
 ```
@@ -66,7 +66,7 @@ pip install -r requirements.txt
 
 ### Option 1: Notebook (recommended)
 1. Open the notebook on Google Colab:  
-[Open in Colab](https://colab.research.google.com/github/<username>/Cultural-Heritage-Storyteller/blob/main/Allam2.ipynb)  
+[Open in Colab](https://colab.research.google.com/github/<username>/Cultural-Heritage-Storyteller/blob/main/allam.ipynb)  
 2. Run all cells. The Gradio interface will start and provide a local link.  
 
 ### Option 2: Local run with Python
